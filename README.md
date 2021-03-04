@@ -10,3 +10,6 @@ A chat system where multiple users can communicate with each other, where the Cl
 **ChatUsingSockets**
 A chat system where multiple users can communicate with each other, where the Client and Server programs communicate with each other using _TCP_ sockets.
 
+**ThermometerAndRadiator**
+This is a simple application for a module to control the heating system in a summerhouse.
+
